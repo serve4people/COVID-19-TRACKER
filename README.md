@@ -2,7 +2,7 @@
 This Repository contains Covid-19 Tracker application.
 
 # Application Description
-It is an API-based project.Interactive tools, including maps, epidemic curves and other charts and graphic allow users to track live details of COVID-19 cases worldwide.
+It is an API-based React.js project.Interactive tools, including maps, epidemic curves and other charts and graphic allow users to track live details of COVID-19 cases worldwide.
 
 # Technologies Used:
 1. React.js
@@ -12,9 +12,6 @@ It is an API-based project.Interactive tools, including maps, epidemic curves an
 API Used:
 1. disease.sh
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -31,7 +28,7 @@ You will also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
 
 ### `npm run build`
 
@@ -41,7 +38,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
 
