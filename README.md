@@ -10,11 +10,11 @@ allow users to track live details of COVID-19 cases
 worldwide.
 
 Technologies Used:
- React.js 
- Leaflet.js
- Graph.js
+ 1. React.js 
+ 2. Leaflet.js
+ 3. Graph.js
  
  API Used:
- disease.sh
+ 1. disease.sh
  
 
