@@ -1,0 +1,58 @@
+.button{
+    background-color:blueviolet;
+    margin-right:4rem;
+}
+.button:hover{
+    background-color:palevioletred;
+}
+.card-body{
+    background: #654ea3;
+  background: -webkit-linear-gradient(to right, #eaafc8, #654ea3);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #eaafc8, #654ea3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.card-heading{
+    background: #654ea3;
+    background: -webkit-linear-gradient(to right, #eaafc8, #654ea3);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #eaafc8, #654ea3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ border: #eaafc8;  
+
+ font-weight: bolder;
+ text-align: center;
+ text-decoration: underline;
+ font-size: xx-larger;
+}
+.link{
+    text-decoration: none;
+    color: aliceblue;
+    cursor: pointer;
+}
+.link:hover{
+    text-decoration: none;
+    color: aliceblue;
+}
+.sub-heading{
+    text-decoration: underline;
+    text-shadow: #eaafc8;
+    font-weight: bold;
+}
+.info-small{
+    font-weight: bold;
+}
+.link1{
+    text-decoration: underline;
+    color:rgb(106, 46, 247);
+}
+@media (max-width:583px) {
+    .buttons{
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .button{
+        margin-bottom: 1rem;
+        width: 40%;
+        margin-left: 32%;
+
+    }
+}
